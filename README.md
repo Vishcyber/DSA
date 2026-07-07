@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Vishcyber/DSA/tree/master/0072-edit-distance) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Vishcyber/DSA/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Vishcyber/DSA/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
