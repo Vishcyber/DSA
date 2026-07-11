@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Vishcyber/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/Vishcyber/DSA/tree/master/2382-maximum-segment-sum-after-removals) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Vishcyber/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3164-find-the-number-of-good-pairs-ii](https://github.com/Vishcyber/DSA/tree/master/3164-find-the-number-of-good-pairs-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,4 +71,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Vishcyber/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3164-find-the-number-of-good-pairs-ii](https://github.com/Vishcyber/DSA/tree/master/3164-find-the-number-of-good-pairs-ii) |
 <!---LeetCode Topics End-->
