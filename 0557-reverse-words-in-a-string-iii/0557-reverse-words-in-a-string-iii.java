@@ -10,17 +10,17 @@ class Solution {
                 j++;
              }
              else {
-             SwapWord(str, i, j-1);
+             Swap(str, i, j-1);
                j++;
                   i = j;
           }      
      }
-      SwapWord(str, i, j-1);
+      Swap(str, i, j-1);
 
     return new String(str);
 }
     
-       public void SwapWord(char[] str, int i, int k)
+       public void Swap(char[] str, int i, int k)
    {
        while (i < k) {
            char temp = str[i];
