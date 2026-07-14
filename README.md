@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vishcyber/DSA/tree/master/0011-container-with-most-water) |
 | [0287-find-the-duplicate-number](https://github.com/Vishcyber/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Vishcyber/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0986-interval-list-intersections](https://github.com/Vishcyber/DSA/tree/master/0986-interval-list-intersections) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vishcyber/DSA/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Vishcyber/DSA/tree/master/0061-rotate-list) |
 | [0287-find-the-duplicate-number](https://github.com/Vishcyber/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vishcyber/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vishcyber/DSA/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Vishcyber/DSA/tree/master/0044-wildcard-matching) |
 ## Recursion
 |  |
