@@ -5,6 +5,7 @@ class Solution {
         int j = 0;
 
         while(i<firstList.length && j<secondList.length ){
+            
             int st = Math.max(firstList[i][0] , secondList[j][0]);
             int end  = Math.min(firstList[i][1] , secondList[j][1]);
 
