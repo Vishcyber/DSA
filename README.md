@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Vishcyber/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Vishcyber/DSA/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Vishcyber/DSA/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Vishcyber/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vishcyber/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Vishcyber/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0881-boats-to-save-people](https://github.com/Vishcyber/DSA/tree/master/0881-boats-to-save-people) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Vishcyber/DSA/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Vishcyber/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Vishcyber/DSA/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Vishcyber/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vishcyber/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vishcyber/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0881-boats-to-save-people](https://github.com/Vishcyber/DSA/tree/master/0881-boats-to-save-people) |
