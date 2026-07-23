@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Vishcyber/DSA/tree/master/0072-edit-distance) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vishcyber/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vishcyber/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/Vishcyber/DSA/tree/master/1156-swap-for-longest-repeated-character-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vishcyber/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/Vishcyber/DSA/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Vishcyber/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/Vishcyber/DSA/tree/master/3164-find-the-number-of-good-pairs-ii) |
 ## Math
@@ -142,4 +144,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vishcyber/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishcyber/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/Vishcyber/DSA/tree/master/1156-swap-for-longest-repeated-character-substring) |
 <!---LeetCode Topics End-->
