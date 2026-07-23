@@ -22,7 +22,7 @@ class Solution {
             int right = left + 1;
             while (right < length && text.charAt(right) == character) right++;
             
-            int currLength = (right - start - 1 == count[character - 'a']) ? right - start - 1  : right - start;
+            int currLength = (right - start <= count[character - 'a']) ? right - start :right - start - 1;
             maxResult = Math.max(maxResult, currLength);
             
         }
