@@ -11,18 +11,18 @@ class Solution {
         if (result <= 1) return result;
         
         int maxResult = 1;
-        int start = 0;
+        int left = 0;
         int length = text.length();
         
-        while (start < length) {
-            int left = start;
-            char character = text.charAt(start);
-            while (start < length && text.charAt(start) == character) start++;
+        while (left < length) {
+            int start =left;
+            char character = text.charAt(left);
+            while (left < length && text.charAt(left) == character) left++;
             
-            int end = start + 1;
-            while (end < length && text.charAt(end) == character) end++;
+            int right = left + 1;
+            while (right < length && text.charAt(right) == character) right++;
             
-            int currLength = (end - left - 1 == count[character - 'a']) ? end - left - 1 : end - left;
+            int currLength = (right - start - 1 == count[character - 'a']) ? right - start - 1  : right - start;
             maxResult = Math.max(maxResult, currLength);
             
         }
