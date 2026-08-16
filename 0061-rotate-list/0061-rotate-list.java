@@ -11,43 +11,46 @@
 
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
-
         if (head == null || head.next == null || k == 0) {
             return head;
         }
 
-        // Find length and last node
-        int length = 1;
-        ListNode tail = head;
+        // Find length
+        int n = 0;
+        ListNode temp = head;
 
-        while (tail.next != null) {
-            tail = tail.next;
-            length++;
+        while (temp != null) {
+            n++;
+            temp = temp.next;
         }
 
-        // Reduce unnecessary rotations
-        k = k % length;
+        k = k % n;
 
         if (k == 0) {
             return head;
         }
 
-        // Make the list circular
-        tail.next = head;
+        // Fast and slow pointers
+        ListNode slow = head;
+        ListNode fast = head;
 
-        // Find new tail
-        int steps = length - k;
-        ListNode newTail = head;
-
-        for (int i = 1; i < steps; i++) {
-            newTail = newTail.next;
+        // Move fast k steps ahead
+        for (int i = 0; i < k; i++) {
+            fast = fast.next;
         }
 
-        // New head
-        ListNode newHead = newTail.next;
+        // Move both until fast reaches the last node
+        while (fast.next != null) {
+            slow = slow.next;
+            fast = fast.next;
+        }
 
-        // Break the circle
-        newTail.next = null;
+        // slow is the new tail
+        // slow.next is the new head
+        ListNode newHead = slow.next;
+
+        slow.next = null;
+        fast.next = head;
 
         return newHead;
     }
