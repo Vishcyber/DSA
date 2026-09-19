@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Vishcyber/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Vishcyber/DSA/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishcyber/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/Vishcyber/DSA/tree/master/1094-car-pooling) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Vishcyber/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Vishcyber/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vishcyber/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vishcyber/DSA/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishcyber/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/Vishcyber/DSA/tree/master/1094-car-pooling) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/Vishcyber/DSA/tree/master/2382-maximum-segment-sum-after-removals) |
 ## Ordered Set
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Vishcyber/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Vishcyber/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vishcyber/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/Vishcyber/DSA/tree/master/1094-car-pooling) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Vishcyber/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 ## Matrix
 |  |
@@ -169,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Vishcyber/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Vishcyber/DSA/tree/master/0234-palindrome-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/Vishcyber/DSA/tree/master/1094-car-pooling) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/Vishcyber/DSA/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
