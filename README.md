@@ -91,10 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Vishcyber/DSA/tree/master/0112-path-sum) |
+| [0437-path-sum-iii](https://github.com/Vishcyber/DSA/tree/master/0437-path-sum-iii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Vishcyber/DSA/tree/master/0112-path-sum) |
+| [0437-path-sum-iii](https://github.com/Vishcyber/DSA/tree/master/0437-path-sum-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Vishcyber/DSA/tree/master/0112-path-sum) |
+| [0437-path-sum-iii](https://github.com/Vishcyber/DSA/tree/master/0437-path-sum-iii) |
 ## Union-Find
 |  |
 | ------- |
