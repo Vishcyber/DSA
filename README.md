@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Vishcyber/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Vishcyber/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vishcyber/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Vishcyber/DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/Vishcyber/DSA/tree/master/2382-maximum-segment-sum-after-removals) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Vishcyber/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/Vishcyber/DSA/tree/master/3164-find-the-number-of-good-pairs-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Vishcyber/DSA/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Vishcyber/DSA/tree/master/0044-wildcard-matching) |
 | [0881-boats-to-save-people](https://github.com/Vishcyber/DSA/tree/master/0881-boats-to-save-people) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Vishcyber/DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 ## Recursion
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Vishcyber/DSA/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishcyber/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/Vishcyber/DSA/tree/master/1094-car-pooling) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Vishcyber/DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/Vishcyber/DSA/tree/master/2382-maximum-segment-sum-after-removals) |
 ## Ordered Set
 |  |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vishcyber/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Vishcyber/DSA/tree/master/0567-permutation-in-string) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Vishcyber/DSA/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Vishcyber/DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Vishcyber/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/Vishcyber/DSA/tree/master/3164-find-the-number-of-good-pairs-ii) |
 ## Math
