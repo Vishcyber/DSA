@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vishcyber/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Vishcyber/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Vishcyber/DSA/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Vishcyber/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Vishcyber/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Vishcyber/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vishcyber/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishcyber/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Vishcyber/DSA/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Vishcyber/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Vishcyber/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vishcyber/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/Vishcyber/DSA/tree/master/0525-contiguous-array) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Vishcyber/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Vishcyber/DSA/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Vishcyber/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Vishcyber/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vishcyber/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/Vishcyber/DSA/tree/master/0881-boats-to-save-people) |
