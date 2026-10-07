@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/Vishcyber/DSA/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishcyber/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vishcyber/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0705-design-hashset](https://github.com/Vishcyber/DSA/tree/master/0705-design-hashset) |
 | [0881-boats-to-save-people](https://github.com/Vishcyber/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Vishcyber/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vishcyber/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Vishcyber/DSA/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/Vishcyber/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Vishcyber/DSA/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/Vishcyber/DSA/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Vishcyber/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Vishcyber/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishcyber/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Vishcyber/DSA/tree/master/0567-permutation-in-string) |
+| [0705-design-hashset](https://github.com/Vishcyber/DSA/tree/master/0705-design-hashset) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Vishcyber/DSA/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vishcyber/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Vishcyber/DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
@@ -224,4 +227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vishcyber/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Vishcyber/DSA/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Vishcyber/DSA/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
