@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Vishcyber/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Vishcyber/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Vishcyber/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vishcyber/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0525-contiguous-array](https://github.com/Vishcyber/DSA/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/Vishcyber/DSA/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishcyber/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Vishcyber/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Vishcyber/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Vishcyber/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vishcyber/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0528-random-pick-with-weight](https://github.com/Vishcyber/DSA/tree/master/0528-random-pick-with-weight) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishcyber/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vishcyber/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vishcyber/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Vishcyber/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Vishcyber/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vishcyber/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vishcyber/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/Vishcyber/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Vishcyber/DSA/tree/master/0905-sort-array-by-parity) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vishcyber/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Vishcyber/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vishcyber/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Sweep Line
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vishcyber/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1094-car-pooling](https://github.com/Vishcyber/DSA/tree/master/1094-car-pooling) |
 ## Simulation
 |  |
